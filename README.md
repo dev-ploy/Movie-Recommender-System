@@ -51,5 +51,4 @@ A web-based movie recommender app built with Streamlit. Enter a movie name and g
 ## License
 MIT
 
----
-**Live Demo:** [http://movie-recom.duckdns.org:8501](http://movie-recom.duckdns.org:8501)
+
